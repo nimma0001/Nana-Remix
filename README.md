@@ -8,6 +8,8 @@ Currently work fine perfectly, but some features may give you error. Please repo
 
 ## Installation Guide
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 See our documentation to get [Installation Guide](https://aman-a.gitbook.io/nana-remix).
 
 ## Community
